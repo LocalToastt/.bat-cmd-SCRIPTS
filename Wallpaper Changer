@@ -1,0 +1,6 @@
+@echo off
+set "image_url=https://www.nicepng.com/png/detail/760-7600265_simple-smiley-face-png.png"
+set "save_path=%UserProfile%\Pictures\wallpaper.jpg"
+powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_path%')"
+reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v Wallpaper /t REG_SZ /d "%save_path%" /f
+rundll32.exe user32.dll,UpdatePerUserSystemParameters
