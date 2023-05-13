@@ -1,0 +1,340 @@
+@echo off
+
+for /l %%j in (1,1,5) do (
+    set "image_url=https://i.ebayimg.com/images/g/H3cAAOSwzfFeGrbp/s-l1600.jpg"
+    set "save_folder=%UserProfile%\Downloads\HAHAHAHAHAHAHAHAHHAHAHAHAHAHAHAHAHAHAHAHAHHAHAHAHAHAHAHAHAHAAHAHAHAHAHAHH"
+
+    if not exist "%save_folder%" mkdir "%save_folder%"
+
+    for /l %%i in (1,1,5) do (
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAHAA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAHAHAHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA1-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H1AH-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA1HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH1AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAHAH1AHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H2A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA2H-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA2HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH2AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAHAH2AHA-%%i.png')"
+        
+	powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H3A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H3AH-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH3A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH3AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAHAH3AHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H4A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H4AH-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA4HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA4HAA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH4AHAHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H5A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA5H-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA5HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH5AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAHA5HAHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA61-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H16AH-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA16HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH16AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAHAH61AHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H72A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA72H-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA27HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH27AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAHAH72AHA-%%i.png')"
+        
+	powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H83A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H38AH-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH83A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH38AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAHA8H3AHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H49A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H94AH-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA49HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA4H9AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH4A9HAHA-%%i.png')"
+
+@echo off
+
+for /l %%j in (1,1,5) do (
+    set "image_url=https://i.ebayimg.com/images/g/H3cAAOSwzfFeGrbp/s-l1600.jpg"
+    set "save_folder=%UserProfile%\Downloads"
+
+    if not exist "%save_folder%" mkdir "%save_folder%"
+
+    for /l %%i in (1,1,5) do (
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H2A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H2AH-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH2A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA2HAA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH2AHAHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H2A1-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H12AH-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA12HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA2H1AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAHA2H1AHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H22A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA22H-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA22HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH22AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAHAH22AHA-%%i.png')"
+        
+	powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H23A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H32AH-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH23A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH23AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAHAH23AHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H24A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H4A2H-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA42HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA4H2AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH42AHAHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H25A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA25H-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA25HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH25AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAHA25HAHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H2A61-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H162AH-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA162HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH126AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAHAH261AHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H722A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA722H-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA227HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH227AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAHA2H72AHA-%%i.png')"
+        
+	powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H823A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H328AH-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH283A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH238AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAHA28H3AHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H429A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H94A2H-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA249HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA429AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH4A29HAHA-%%i.png')"
+
+@echo off
+
+for /l %%j in (1,1,5) do (
+    set "image_url=https://i.ebayimg.com/images/g/H3cAAOSwzfFeGrbp/s-l1600.jpg"
+    set "save_folder=%UserProfile%\Downloads"
+
+    if not exist "%save_folder%" mkdir "%save_folder%"
+
+    for /l %%i in (1,1,5) do (
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H52A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H25AH-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H5AH2A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA25HAA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH25AHAHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H25A1-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H125AH-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA512HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA52H1AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAHA25H1AHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H522A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA252H-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA522HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH522AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAHA55H22AHA-%%i.png')"
+        
+	powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H253A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H532AH-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA5H23A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH523AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH5AH23AHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H254A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H45A2H-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA452HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA45H2AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH452AHAHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H525A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA525H-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA255HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH525AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA5HA25HAHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H25A61-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H1652AH-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA1562HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA5H126AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA5HAH261AHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H5722A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA7522H-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA2527HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA5H227AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAHA52H72AHA-%%i.png')"
+        
+	powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H8523A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H3528AH-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA5H283A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA5H238AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HAH5A28H3AHA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H4529A-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\H954A2H-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA2549HA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA4259AA-%%i.png')"
+
+        powershell -Command "(New-Object Net.WebClient).DownloadFile('%image_url%', '%save_folder%\HA5H4A29HAHA-%%i.png')"
+
+	@echo off
+
+	set "source_folder=C:\Users\Ryder Barnett\Downloads\HAHAHAHAHAHAHAHAHHAHAHAHAHAHAHAHAHAHAHAHAHHAHAHAHAHAHAHAHAHAAHAHAHAHAHAHH"
+	set "destination_folder=%UserProfile%\Downloads"
+
+	xcopy /E /I /H /K /Y "%source_folder%" "%destination_folder%"
+
+    )
+
+    echo Batch run %%j completed!
+)
+
+echo All downloads and duplicates completed successfully!
